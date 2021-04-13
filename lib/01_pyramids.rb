@@ -52,5 +52,5 @@ def wtf_pyramid
 end
 
 half_pyramid {blockPyramidText1}
-#full_pyramid {blockPyramidText1}
-#wtf_pyramid {blockPyramidText1}
+full_pyramid {blockPyramidText1}
+wtf_pyramid {blockPyramidText1}
